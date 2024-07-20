@@ -42,10 +42,10 @@ We welcome contributions from the community! Whether you want to report a bug, r
 
 ## Community
 Join our community to stay updated with the latest news, share your projects, and collaborate with others:
-- [Reddit](https://www.reddit.com/r/open-argo)
-- [Discord](https://discord.gg/open-argo)
-- [Twitter](https://twitter.com/open-argo)
-- [YouTube](https://www.youtube.com/open-argo)
+- [Reddit](https://www.reddit.com/r/OpenArgo)
+- [Discord](https://discord.gg/b3QM3Vtcah)
+- [Twitter](https://x.com/OpenArgo)
+- [YouTube](https://www.youtube.com/@OpenArgo)
 
 ## License
 ARGO is released under the [MIT License](https://www.github.com/Open-Argo/LICENSE).
