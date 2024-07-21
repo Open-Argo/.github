@@ -1,4 +1,4 @@
-# Open ARGO
+# OpenArgo
 **A**utonomous **R**obot for **G**eneral **O**perations
 
 ARGO is an open-source robotics platform designed for learning and experimentation in custom electronics, mechanical design, and software development. Our mission is to provide a comprehensive resource for hobbyists, students, and professionals interested in robotics.
