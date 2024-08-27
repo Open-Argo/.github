@@ -3,7 +3,7 @@
 
 ARGO is an open-source robotics platform designed for learning and experimentation in custom electronics, mechanical design, and software development. Our mission is to provide a comprehensive resource for hobbyists, students, and professionals interested in robotics.
 
-![ARGO Banner](https://example.com/banner-image.jpg)
+![ARGO Banner](https://avatars.githubusercontent.com/u/175572984?s=400&u=93262dadc41383bf6fc30c2bc937c0bafdd86544&v=4)
 
 ## Features
 - **Modular Design**: Easy to customize and expand with various sensors, actuators, and modules.
@@ -12,7 +12,7 @@ ARGO is an open-source robotics platform designed for learning and experimentati
 - **Community Support**: Join our community to share your projects, get help, and collaborate with others.
 
 ## Getting Started
-To get started with ARGO, check out our [Documentation Webpage](https://www.github.com/ARGO/documentation) for detailed guides, tutorials, and reference materials.
+To get started with ARGO, check out our [Documentation Webpage](www.openargo.com) for detailed guides, tutorials, and reference materials.
 
 ## Repository Organization
 The ARGO project is divided into several repositories, each focusing on different aspects of the platform:
@@ -53,7 +53,7 @@ ARGO is released under the [MIT License](https://www.github.com/Open-Argo/LICENS
 ## Acknowledgements
 We would like to thank all our contributors and the open-source community for their support and collaboration.
 
-![ARGO Logo](https://example.com/logo.png)
+![ARGO Logo](https://avatars.githubusercontent.com/u/175572984?s=400&u=93262dadc41383bf6fc30c2bc937c0bafdd86544&v=4)
 
 ---
 
