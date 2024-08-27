@@ -12,7 +12,7 @@ ARGO is an open-source robotics platform designed for learning and experimentati
 - **Community Support**: Join our community to share your projects, get help, and collaborate with others.
 
 ## Getting Started
-To get started with ARGO, check out our [Documentation Webpage](www.openargo.com) for detailed guides, tutorials, and reference materials.
+To get started with ARGO, check out our [Documentation Webpage](https://www.openargo.com) for detailed guides, tutorials, and reference materials.
 
 ## Repository Organization
 The ARGO project is divided into several repositories, each focusing on different aspects of the platform:
